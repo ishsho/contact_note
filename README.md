@@ -1,27 +1,78 @@
-# README
+# アプリケーション名
+ContactNote
+<br />
+<br />
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+定期的に更新される伝達事項の共有をスムーズに行うことができる。
+<br />
+<br />
 
-Things you may want to cover:
+# URL
 
-* Ruby version
+<br />
+<br />
 
-* System dependencies
+# テスト用アカウント
+・ Basic認証ID : ishsho  
+・ Basic認証パスワード : 1203  
+・ ログインパスワード : 111111
+<br />
+<br />
 
-* Configuration
+# 利用方法
+トピックスの閲覧及び投稿
+---  
+___
+1.URLに遷移するとログイン画面が表示される。  
+2.トピックスの下にある新規作成ボタンから、新しいトピックスを作成する。  
+3.  
 
-* Database creation
+<br />
 
-* Database initialization
+項目の閲覧及び投稿
+---
+___
+1.  
+2.  
+3.  
+<br />
 
-* How to run the test suite
+# アプリケーションを作成した背景
+自分自身をペルソナにし、前職での社内における様々な伝達事項の共有方法が、非常に不便でストレスを感じた経験があったことが判明した。  方法としては社内メールにて伝達事項が記載されたPDFを全社員に一斉送信するというものだったが、メールやPDFのタイトルづけも曖昧で、確認の度に一つ一つPDFを開いて探す必要があった。  
+そこでストレスなく今までに発信された伝達事項を手早く確認できるアプリケーションを開発することにした。
+<br />
+<br />
 
-* Services (job queues, cache servers, search engines, etc.)
+# 洗い出した要件
+[要件を定義したシート](https://docs.google.com/spreadsheets/d/1hPcdfzZ0Nhv3sjtiWoG7QFnbUg65fBB31BzNE2ETZWc/edit#gid=982722306)
+<br />
+<br />
 
-* Deployment instructions
+# 実装した機能についての画像やGIFおよびその説明
 
-* ...
+<br />
+<br />
+
+# 実装予定の機能
+複数人で行えるチャット機能の実装
+<br />
+<br />
+
+# データベース設計
+ER図を添付予定
+<br />
+<br />
+
+# 開発環境
+・ Ruby/Ruby on Rails/MySQL/Github/Visual Studio Code
+<br />
+<br />
+
+# 工夫したポイント
+
+<br />
+<br />
 
 
 # テーブル設計
