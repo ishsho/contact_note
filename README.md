@@ -60,7 +60,7 @@ ___
 <br />
 
 # データベース設計
-ER図を添付予定
+[![Image from Gyazo](https://i.gyazo.com/6cffebd7363b985d851c1a9f1491eddd.png)](https://gyazo.com/6cffebd7363b985d851c1a9f1491eddd)
 <br />
 <br />
 
